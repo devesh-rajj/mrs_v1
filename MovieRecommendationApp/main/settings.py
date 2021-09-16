@@ -25,7 +25,7 @@ SECRET_KEY = '5u$a%1-m#+jh4k^pb%*ut#24zhwxdv@)ks3=tg7sz9&7)&dr^j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','sampledomain.com']
+ALLOWED_HOSTS = ['127.0.0.1','movie-recommendz.herokuapp.com']
 
 
 # Application definition
