@@ -1,4 +1,9 @@
-Django==2.2.1
-pandas==0.23.3
-numpy==1.14.5
-surprise
+Django==3.2.7
+pandas==1.1.5
+numpy==1.19.5
+scikit-learn==0.24.2
+scikit-surprise==1.1.1
+asgiref==3.4.1
+Pillow==8.3.1
+pytz==2018.3
+sqlparse==0.4.1
